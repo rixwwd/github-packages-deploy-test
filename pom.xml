@@ -25,4 +25,12 @@
     </dependency>
   </dependencies>
 
+<distributionManagement>
+   <repository>
+     <id>github</id>
+     <name>GitHub rixwwd Apache Maven Packages</name>
+     <url>https://maven.pkg.github.com/rixwwd/github-packages-deploy-test</url>
+   </repository>
+</distributionManagement>
+
 </project>
